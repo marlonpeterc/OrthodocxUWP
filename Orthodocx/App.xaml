@@ -23,6 +23,10 @@
                             <AcrylicBrush x:Key="NavigationViewExpandedPaneBackground"
                                    BackgroundSource="HostBackdrop"
                                    TintOpacity=".6"/>
+                            <AcrylicBrush x:Key="OrthodocxTitleBarPaneBackground"
+                                   BackgroundSource="HostBackdrop"
+                                   TintColor="{ThemeResource SystemAccentColorDark1}"
+                                   TintOpacity=".4"/>
                         </ResourceDictionary>
                         <ResourceDictionary x:Key="HighContrast">
                             <!-- Always include a "HighContrast" dictionary when you override

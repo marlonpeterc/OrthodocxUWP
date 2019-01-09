@@ -26,6 +26,8 @@ namespace Orthodocx
         public MainPage()
         {
             this.InitializeComponent();
+            string appName = Windows.ApplicationModel.Package.Current.DisplayName;
+            appTitle.Text = appName;
         }
 
         #region NavigationView event handlers

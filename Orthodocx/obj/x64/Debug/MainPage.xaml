@@ -8,7 +8,20 @@
     mc:Ignorable="d">
 
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="38" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <RelativePanel Grid.Row="0" Background="{StaticResource OrthodocxTitleBarPaneBackground}">
+            <TextBlock x:ConnectionId='11' x:Name="appTitle" 
+                       Style="{ThemeResource CaptionTextBlockStyle}" 
+                       Margin="12, 8" 
+                       VerticalAlignment="Center" 
+                       HorizontalAlignment="Left"
+                       />
+        </RelativePanel>
         <NavigationView x:ConnectionId='2' x:Name="nvTopLevelNav" 
+                        Grid.Row="1"
                         AlwaysShowHeader="False" 
                                                      
                                                                          
@@ -52,7 +65,12 @@
                 </NavigationViewItem>
             </NavigationView.MenuItems>
             <Frame x:ConnectionId='9' x:Name="contentFrame"></Frame>
+
+            <NavigationView.AutoSuggestBox>
+                <AutoSuggestBox x:ConnectionId='10' x:Name="autoSuggestBox" QueryIcon="Find" />
+            </NavigationView.AutoSuggestBox>
         </NavigationView>
     </Grid>
+    
 </Page>
 
