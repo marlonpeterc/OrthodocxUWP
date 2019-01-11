@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-QTBPRP3</Machine>
-    <WindowsUser>marlo</WindowsUser>
+    <Machine>MARLON-PC</Machine>
+    <WindowsUser>MarlonPeter</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>d0ceb4ef-5491-419d-a061-f03a3e9cc324</PackageIdentityName>
     <PackageIdentityPublisher>CN=marlo</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\marlo\source\repos\Orthodocx\Orthodocx\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>8142A31D57DCD8B5A0A3269F1C4EF54835A40777E6ECC2D0151153BD51EBE064</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>A49F13E529AAAEA362A2945D4C25B16E6443EBD35FE5B86EA130F7D6AC5F6453</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>d0ceb4ef-5491-419d-a061-f03a3e9cc324_1.0.0.0_x64__fhhzafk59ywky</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>d0ceb4ef-5491-419d-a061-f03a3e9cc324_fhhzafk59ywky!App</RegisteredUserModeAppID>
     <RegisteredPackageID>d0ceb4ef-5491-419d-a061-f03a3e9cc324</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-01-09T23:39:13.502</Modified>
+      <Modified>2019-01-11T21:14:18.935</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\Orthodocx.exe">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\Orthodocx.exe">
       <PackagePath>entrypoint\Orthodocx.exe</PackagePath>
-      <Modified>2019-01-09T23:39:12.747</Modified>
+      <Modified>2019-01-11T21:14:18.364</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.3\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,99 +46,99 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-22T12:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\Assets\jacksparrow.jpg">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\Assets\jacksparrow.jpg">
       <PackagePath>Assets\jacksparrow.jpg</PackagePath>
-      <Modified>2019-01-09T23:23:22.874</Modified>
+      <Modified>2019-01-11T20:53:05.161</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2019-01-07T00:37:12.413</Modified>
+      <Modified>2019-01-11T20:53:05.167</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2018-12-26T23:24:21.289</Modified>
+      <Modified>2019-01-11T20:53:05.154</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-12-26T23:24:21.289</Modified>
+      <Modified>2019-01-11T20:53:05.155</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-12-26T23:24:21.289</Modified>
+      <Modified>2019-01-11T20:53:05.156</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-12-26T23:24:21.289</Modified>
+      <Modified>2019-01-11T20:53:05.157</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-12-26T23:24:21.289</Modified>
+      <Modified>2019-01-11T20:53:05.158</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-12-26T23:24:21.289</Modified>
+      <Modified>2019-01-11T20:53:05.159</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-12-26T23:24:21.289</Modified>
+      <Modified>2019-01-11T20:53:05.160</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\Orthodocx.xr.xml">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\Orthodocx.xr.xml">
       <PackagePath>Orthodocx.xr.xml</PackagePath>
-      <Modified>2019-01-09T23:36:52.217</Modified>
+      <Modified>2019-01-11T20:53:05.355</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-01-09T23:39:12.461</Modified>
+      <Modified>2019-01-11T21:14:18.068</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-01-09T23:39:12.461</Modified>
+      <Modified>2019-01-11T21:14:18.069</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\Views\ChartsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\Views\ChartsPage.xbf">
       <PackagePath>Views\ChartsPage.xbf</PackagePath>
-      <Modified>2019-01-09T23:39:12.461</Modified>
+      <Modified>2019-01-11T21:14:18.070</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\Views\DoctorsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\Views\DoctorsPage.xbf">
       <PackagePath>Views\DoctorsPage.xbf</PackagePath>
-      <Modified>2019-01-09T23:39:12.461</Modified>
+      <Modified>2019-01-11T21:14:18.071</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\Views\HomePage.xbf">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\Views\HomePage.xbf">
       <PackagePath>Views\HomePage.xbf</PackagePath>
-      <Modified>2019-01-09T23:39:12.461</Modified>
+      <Modified>2019-01-11T21:14:18.071</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\Views\PatientsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\Views\PatientsPage.xbf">
       <PackagePath>Views\PatientsPage.xbf</PackagePath>
-      <Modified>2019-01-09T23:39:12.459</Modified>
+      <Modified>2019-01-11T21:14:18.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\Views\PrescriptionsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\Views\PrescriptionsPage.xbf">
       <PackagePath>Views\PrescriptionsPage.xbf</PackagePath>
-      <Modified>2019-01-09T23:39:12.462</Modified>
+      <Modified>2019-01-11T21:14:18.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\Views\SchedulePage.xbf">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\Views\SchedulePage.xbf">
       <PackagePath>Views\SchedulePage.xbf</PackagePath>
-      <Modified>2019-01-09T23:39:12.462</Modified>
+      <Modified>2019-01-11T21:14:18.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\Views\SettingsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\Views\SettingsPage.xbf">
       <PackagePath>Views\SettingsPage.xbf</PackagePath>
-      <Modified>2019-01-09T23:39:12.462</Modified>
+      <Modified>2019-01-11T21:14:18.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-10-22T11:44:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-01-09T23:27:39.952</Modified>
+      <Modified>2019-01-11T21:01:48.516</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marlo\source\repos\Orthodocx\Orthodocx\bin\x64\Debug\Core\Orthodocx.exe">
+    <AppxPackagedFile Include="C:\Users\MarlonPeter\source\repos\OrthodocxUWP\Orthodocx\bin\x64\Debug\Core\Orthodocx.exe">
       <PackagePath>Orthodocx.exe</PackagePath>
-      <Modified>2019-01-09T23:39:13.492</Modified>
+      <Modified>2019-01-11T21:14:18.928</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

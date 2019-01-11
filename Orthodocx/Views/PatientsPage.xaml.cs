@@ -14,7 +14,7 @@ namespace Orthodocx.Views
     {
         public PatientsPage()
         {
-            this.InitializeComponent();
+            InitializeComponent();
         }
 
         public ObservableCollection<string> Items { get; } = new ObservableCollection<string>();

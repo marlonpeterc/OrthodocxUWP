@@ -56,7 +56,6 @@ namespace Orthodocx.ViewModel
 
     public class PatientItemViewModel
     {
-        private ObservableCollection<PatientItem> patientItems = new ObservableCollection<PatientItem>();
-        public ObservableCollection<PatientItem> PatientItems => patientItems;
+        public ObservableCollection<PatientItem> PatientItems { get; } = new ObservableCollection<PatientItem>();
     }
 }

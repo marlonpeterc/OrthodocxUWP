@@ -8136,24 +8136,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marlo\\.nuget\\packages\\": {},
+    "C:\\Users\\MarlonPeter\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\marlo\\source\\repos\\Orthodocx\\Orthodocx\\Orthodocx.csproj",
+      "projectUniqueName": "C:\\Users\\MarlonPeter\\source\\repos\\OrthodocxUWP\\Orthodocx\\Orthodocx.csproj",
       "projectName": "Orthodocx",
-      "projectPath": "c:\\users\\marlo\\source\\repos\\Orthodocx\\Orthodocx\\Orthodocx.csproj",
-      "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\marlo\\source\\repos\\Orthodocx\\Orthodocx\\obj\\",
+      "projectPath": "C:\\Users\\MarlonPeter\\source\\repos\\OrthodocxUWP\\Orthodocx\\Orthodocx.csproj",
+      "packagesPath": "C:\\Users\\MarlonPeter\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MarlonPeter\\source\\repos\\OrthodocxUWP\\Orthodocx\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\marlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MarlonPeter\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
